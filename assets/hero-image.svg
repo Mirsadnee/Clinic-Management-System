@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Background Circle -->
+        <circle fill="#FFFFFF" opacity="0.1" cx="400" cy="300" r="250"/>
+        
+        <!-- Hospital Building -->
+        <path d="M300,200 L500,200 L500,400 L300,400 Z" fill="#FFFFFF" opacity="0.8"/>
+        <path d="M350,200 L350,400 M450,200 L450,400" stroke="#FFFFFF" stroke-width="4"/>
+        
+        <!-- Hospital Cross -->
+        <path d="M400,150 L400,250 M375,200 L425,200" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+        
+        <!-- Medical Icons -->
+        <circle cx="250" cy="250" r="30" fill="#FFFFFF" opacity="0.6"/>
+        <path d="M235,250 L265,250 M250,235 L250,265" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+        
+        <circle cx="550" cy="250" r="30" fill="#FFFFFF" opacity="0.6"/>
+        <path d="M535,250 L565,250 M550,235 L550,265" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+        
+        <!-- Decorative Elements -->
+        <circle cx="200" cy="400" r="20" fill="#FFFFFF" opacity="0.4"/>
+        <circle cx="600" cy="400" r="20" fill="#FFFFFF" opacity="0.4"/>
+        <circle cx="400" cy="450" r="25" fill="#FFFFFF" opacity="0.4"/>
+    </g>
+</svg> 
